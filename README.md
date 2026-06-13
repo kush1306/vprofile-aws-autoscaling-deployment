@@ -61,4 +61,4 @@ A few screenshots from the process:
 
 ## What I Learned
 
-This project gave me a much clearer picture of how production-style deployments work on AWS — not just spinning up servers, but thinking about scalability, availability, and how services like EC2, S3, ALB, and Auto Scaling all work together. It also helped me get more comfortable working on Linux servers from the command line and managing a deployment end to end, from build to live application.
+This project gave me a much clearer picture of how production-style deployments work on AWS — not just spinning up servers, but thinking about scalability, availability, and how services like EC2, S3, ALB, and Auto Scaling all work together. It also helped me get more comfortable working on Linux servers from the command line and managing a deployment end-to-end, from build to live application.
